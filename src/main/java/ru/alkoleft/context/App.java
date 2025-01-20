@@ -1,4 +1,6 @@
-import commands.MainCommand;
+package ru.alkoleft.context;
+
+import ru.alkoleft.context.commands.MainCommand;
 import picocli.CommandLine;
 
 public class App {

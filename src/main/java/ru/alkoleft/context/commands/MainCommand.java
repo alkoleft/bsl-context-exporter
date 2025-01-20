@@ -1,4 +1,4 @@
-package commands;
+package ru.alkoleft.context.commands;
 
 import picocli.CommandLine;
 
